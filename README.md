@@ -1,6 +1,6 @@
 # RaftAutoFishing
 
-Этот код на пайтоне позволит автоматически ловить рыбу в игре Raft.
+Этот код на версии Python 3.12.8 позволит автоматически ловить рыбу в игре Raft.
 
 РАБОТАЕТ НА РАЗРЕШЕНИИ 1920х1080 Полноэкранный и Полноэкранный в окне.
 
@@ -16,6 +16,8 @@ lmb_template_path = "C:\\Users\\user\\lmb_text.png"
 water_template_path = "C:\\Users\\user\\water_level.png"
 
 food_template_path = "C:\\Users\\user\\food_level.png"
+
+Так же прописать данную команду в терминале вашего интерпретатора: pip install -r requirements.txt
 
 Желательно включить уведомления в Windows.
 
